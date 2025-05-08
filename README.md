@@ -55,9 +55,6 @@ Built and developed by Amith S Patil, Asher Jarvis Pinto, Henry Gladson, Fariza 
 | **Macro Avg** | 0.93  | 0.93   | 0.93     | 100,000 |
 | **Weighted Avg** | 0.93 | 0.93 | 0.93     | 100,000 |
 
-*Table 2: Evaluation metrics of the model performance*
-
-
 ---
 
 ## References
