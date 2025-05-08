@@ -32,15 +32,8 @@ Built and developed by Amith S Patil, Asher Jarvis Pinto, Henry Gladson, Fariza 
      - Metric: **Accuracy**
 
 3. **Training**
-   - Trained the model using **train_ds** for training and **test_ds** for validation.
+   - Trained the model using **model_train.py** for training and **model_pred.py** for validation.
    - Applied **EarlyStopping** if validation loss didn't improve for 3 consecutive epochs.
-
-4. **Evaluation**
-   - Metrics:
-     - **Accuracy** on test data.
-     - **Loss** during training and validation.
-   - Visuals:
-     - **Training history**: Plots of accuracy and loss.
 
 
 ---
